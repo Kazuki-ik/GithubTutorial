@@ -11,6 +11,6 @@ while True:
     elif input_num > 1 and input_num <= 9:
         print('一桁の数字です')
     elif input_num >= 10 and input_num <=99:
-        print('二桁の数字です')
+        print('二桁の数です')
     else:
         print('該当するコマンドがありません')
